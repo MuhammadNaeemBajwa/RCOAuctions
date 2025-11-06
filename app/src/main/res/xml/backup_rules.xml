@@ -4,4 +4,3 @@
     <include domain="database" path="."/>
     <include domain="file" path="."/>
 </full-backup-content>
-
